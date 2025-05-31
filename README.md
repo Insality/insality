@@ -35,13 +35,6 @@ I love creating open-source modules that make life easier for other Defold devs�
 
 ---
 
-## ✨ About me in 3 bullets
-* 🎮 **Game dev since 2014** – commercial & jam projects for mobile, web and desktop.
-* 🛠 **Toolsmith** – I enjoy shaving the yak so you don’t have to; most of my libs were born from real studio needs.
-* 🌱 **Community driven** – active in the [Defold forums](https://forum.defold.com/) and always happy to help.
-
----
-
 ## 💜 Sponsor this work
 
 Maintaining, documenting and supporting these libraries takes time.
