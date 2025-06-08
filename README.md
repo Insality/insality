@@ -27,8 +27,6 @@ I love creating open-source modules that make life easier for other Defold devsâ
 
 | Project | What it is |
 |---------|------------|
-| **[Decore](https://github.com/Insality/decore)** | Defold ECS Data Manager |
-| **[Detiled](https://github.com/Insality/detiled)** | Tiled to Decore ECS Workflow for Defold |
 | **[Quest](https://github.com/Insality/defold-quest)** | Defold Quest System |
 | **[Token](https://github.com/Insality/defold-token)** | Defold Countable Items Container |
 
