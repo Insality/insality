@@ -15,6 +15,7 @@ I love creating open-source modules that make life easier for other Defold devsâ
 |---------|------------|
 | **[Druid](https://github.com/Insality/druid)** | Powerful, flexible UI component framework for Defold |
 | **[Panthera 2.0](https://github.com/Insality/panthera)** | Animation Editor and Runtime for Defold |
+| **[Asset Store](https://github.com/Insality/asset-store)** | Defold In-Editor Asset Store for browsing and installing assets |
 | **[Event](https://github.com/Insality/defold-event)** | Cross-Context Defold Event System |
 | **[Saver](https://github.com/Insality/defold-saver)** | Defold Save File Manager |
 | **[Log](https://github.com/Insality/defold-log)** | Logger with Performance Metrics for Defold |
