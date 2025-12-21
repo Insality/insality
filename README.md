@@ -23,11 +23,6 @@ I love creating open-source modules that make life easier for other Defold devsâ
 | **[Tweener](https://github.com/Insality/defold-tweener)** | Timer Based Defold Tween Library |
 | **[Deployer](https://github.com/Insality/defold-deployer)** | Universal build && deploy script for Defold projects |
 | **[Proto](https://github.com/Insality/defold-proto)** | Defold Protobuf Library to encode, decode and verifying messages |
-
-### Currently working on:
-
-| Project | What it is |
-|---------|------------|
 | **[Quest](https://github.com/Insality/defold-quest)** | Defold Quest System |
 | **[Token](https://github.com/Insality/defold-token)** | Defold Countable Items Container |
 
