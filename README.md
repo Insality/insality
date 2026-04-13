@@ -5,7 +5,7 @@
 I’m Maksim “Insality” Tuprikov 👋
 
 Game developer with a soft spot for **Defold**, UI & UX, tooling and web tech.
-I love creating open-source modules that make life easier for other Defold devs—and I’m always up for a chat, a coffee, or a pull-request.
+I love creating open-source modules that make life easier for other Defold devs. I’m always up for a chat, a coffee, or a pull-request.
 
 ---
 
