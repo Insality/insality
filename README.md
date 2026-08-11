@@ -25,7 +25,20 @@ I love creating open-source modules that make life easier for other Defold devs.
 | **[Proto](https://github.com/Insality/defold-proto)** | Defold Protobuf Library to encode, decode and verifying messages |
 | **[Quest](https://github.com/Insality/defold-quest)** | Defold Quest System |
 | **[Token](https://github.com/Insality/defold-token)** | Defold Countable Items Container |
+| **[Audio](https://github.com/Insality/defold-audio)** | Lightweight sound manager for Defold |
+| **[Schedule](https://github.com/Insality/defold-schedule)** | Time-based scheduling library for Defold |
+| **[Decore](https://github.com/Insality/decore)** | Defold ECS data manager built on tiny-ecs |
 | **[Detiled](https://github.com/Insality/detiled)** | Tiled to Defold Map Parser |
+
+---
+
+## 🎮 Games
+
+| Game | What it is |
+|------|------------|
+| **[Shooting Circles](https://github.com/Insality/shooting_circles)** | Defold tiny-ecs game example |
+| **[Cosmic Dash](https://github.com/Insality/cosmic-dash-jam-2025)** | MadeWithDefold Jam 2025 game — ECS example |
+| **[Robo Dance](https://github.com/Insality/robo-dance-jam-2026)** | Gamedev JS Jam 2026 game — ECS example |
 
 
 ---
